@@ -1,5 +1,5 @@
 [package]
-name = "rips_lib"
+name = "rips"
 version = "0.1.0"
 authors = ["dgrubb <davidanthonygrubb@gmail.com>"]
 edition = "2018"
