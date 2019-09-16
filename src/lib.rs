@@ -1,7 +1,7 @@
 //! TODO: Complete this documentation
 use std::result::Result::{self, Ok, Err};
 
-mod rips {
+pub mod rips {
     pub struct PatchEntry {
         offset: u32,
         length: u32,
